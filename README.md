@@ -7,9 +7,9 @@
 
 
 ## Use case
-![Диаграмма сервисов](https://raw.githubusercontent.com/KernelMrex/backendcourse2021/tree/master/pictures/use_case_diagram.jpg)
+![Диаграмма сервисов](https://raw.githubusercontent.com/KernelMrex/backendcourse2021/master/pictures/use_case_diagram.jpg)
 
 
 ## Диаграмма сервисов
 
-![Диаграмма сервисов](https://raw.githubusercontent.com/KernelMrex/backendcourse2021/tree/master/pictures/service_diagram_v3.jpg)
+![Диаграмма сервисов](https://raw.githubusercontent.com/KernelMrex/backendcourse2021/master/pictures/service_diagram_v3.jpg)
