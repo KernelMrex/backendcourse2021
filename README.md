@@ -12,4 +12,4 @@
 
 ## Диаграмма сервисов
 
-![Диаграмма сервисов](https://raw.githubusercontent.com/KernelMrex/backendcourse2021/master/pictures/service_diagram_v3.jpg)
+![Диаграмма сервисов](https://raw.githubusercontent.com/KernelMrex/backendcourse2021/master/pictures/service_diagram_v4.jpg)
